@@ -1,106 +1,53 @@
-# Hi, I'm Aditya Mandali 👋
+# Hi there, I'm Aditya! 👋
 
-## Data Analyst | AI/ML Engineer | Data Scientist
+### Results-driven Data Analyst | AI/ML Engineer 🚀
 
-I'm an Information Systems professional passionate about turning data into actionable insights and building intelligent AI systems. I specialize in analytics, machine learning, and scalable data solutions that drive real business impact.
-
----
-
-## 🚀 What I Do
-
-- Build end-to-end data pipelines and analytics solutions  
-- Design interactive dashboards for business intelligence (Power BI, Tableau)  
-- Develop machine learning and deep learning models  
-- Engineer multi-agent AI systems using LLMs  
-- Perform advanced SQL analytics and data modeling  
-- Work with cloud platforms for scalable data solutions  
+I am an Information Systems professional and Data Scientist passionate about building end-to-end data pipelines, developing business intelligence dashboards, and engineering intelligent AI systems. I enjoy transforming complex datasets into actionable insights and scalable AI-driven solutions that create real business impact.
 
 ---
 
-## 🛠 Technical Skills
+## 🛠️ Tech Stack & Tools
 
-### Programming & Databases
-- Python  
-- SQL  
-- PostgreSQL  
-- Oracle Database  
-
-### Data Analytics & Visualization
-- Power BI  
-- Tableau  
-- AWS QuickSight  
-- Microsoft Excel  
-- Data Modeling  
-- ETL Development  
-
-### AI / Machine Learning
-- TensorFlow  
-- Scikit-Learn  
-- Pandas  
-- Deep Learning  
-- NLP  
-- LLM Applications  
-- Multi-Agent AI Systems  
-- Prompt Engineering  
-
-### Cloud & Tools
-- AWS  
-- Microsoft Azure  
-- Git / GitHub  
-- REST APIs  
+| Category | Technologies |
+| :--- | :--- |
+| **Languages & Databases** | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) |
+| **Data Analytics & BI** | ![Tableau](https://img.shields.io/badge/Tableau-E14337?style=flat-square&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) ![AWS QuickSight](https://img.shields.io/badge/AWS_QuickSight-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) |
+| **AI / Machine Learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) `LLM Orchestration` `Multi-Agent Systems` |
+| **Cloud & Tools** | ![Microsoft Azure](https://img.shields.io/badge/Azure_AZ--900-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square) |
 
 ---
 
-## 📌 Featured Projects
+## 📈 Featured Projects
 
-### ✈️ Travel Concierge Multi-Agent System
-- Built an AI-powered travel planning system using multiple coordinated agents (flights, hotels, activities, orchestrator).  
-- Reduced planning time by 96% through parallel processing and intelligent task distribution.  
+### 🧳 Travel Concierge Multi-Agent System
+* Built an intelligent travel planning system using multiple AI agents (flights, hotels, activities, orchestrator).
+* Reduced end-to-end planning time by **96%** through parallel execution and optimized workflow coordination.
 
 ### 📊 Donor Impact & Engagement Analytics Platform
-- Created dashboards and data pipelines to track donor retention, fundraising trends, and segmentation.  
-- Automated reporting workflows using Python and Pandas, reducing manual effort by 60%.  
+* Designed dashboards and data pipelines to analyze donor retention, fundraising trends, and segmentation.
+* Automated reporting workflows using Python and Pandas, reducing manual effort by **60%**.
 
-### 🧠 AI-Based Medical Image Classifier
-- Developed a CNN model using TensorFlow to detect medical conditions from image data.  
-- Achieved 92% accuracy on a dataset of 5,000+ images.  
+### 🧠 AI-Based Medical Image Classification
+* Developed a deep learning CNN model using TensorFlow for medical image detection.
+* Achieved **92% accuracy** on a dataset of 5,000+ images.
 
-### 📊 Sales & Business Insights Dashboard
-- Built Power BI dashboards to analyze sales performance, revenue trends, and KPIs.  
-- Designed data models and DAX measures for executive-level reporting.  
-
----
-
-## 🌱 Currently Learning
-
-- Advanced LLM orchestration  
-- Agentic AI frameworks  
-- Cloud data engineering  
-- MLOps & model deployment  
-- Generative AI applications  
+### 📊 Business Intelligence Sales Dashboard
+* Built interactive Power BI dashboards to analyze revenue trends, KPIs, and business performance.
+* Implemented data modeling and DAX measures for executive reporting.
 
 ---
 
-## 🎯 Career Interests
+## ⚡ Quick Overview
 
-- Data Analyst  
-- Business Intelligence Analyst  
-- Data Scientist  
-- AI/ML Engineer  
-- Analytics Engineer  
-- Generative AI Engineer  
+- 🔭 **Currently working as:** Data Analyst building scalable reporting pipelines and data governance solutions  
+- 🌱 **Currently learning:** Advanced LLM orchestration, agentic AI frameworks, cloud data engineering  
+- 💬 **Ask me about:** SQL (CTEs, Window Functions), Power BI, Tableau, Python analytics, ML models  
+- ⚡ **Fun fact:** Outside work, I enjoy competitive gaming (Valorant, Rocket League) and cinematic photography  
 
 ---
 
-## 🎮 Beyond Work
+## 📬 Let's Connect!
 
-- Competitive gaming (Valorant, Rocket League)  
-- Cinematic photography & editing  
-- Exploring new AI tools and frameworks  
-
----
-
-## 📫 Connect With Me
-
-LinkedIn: https://www.linkedin.com/in/gnaniaditya/  
-Kaggle: https://www.kaggle.com/gnaniaditya  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gnaniaditya/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/gnaniaditya)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
